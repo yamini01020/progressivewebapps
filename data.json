@@ -1,0 +1,14 @@
+{"basics":{
+  "Image":"Koala.jpg",
+  "Name":"Yamini",
+  "Phonenumber":"+91-9876543210",
+  "email":"dronavajjhalayamini@gmail.com",
+  "Adress":"SRKR College,Bhimavaram.",
+  "Text":"Address"
+},
+
+"careerobjective":{
+    "head":"Career Objective",
+    "info":"To pursue a challenging career."
+  }
+}
